@@ -1,7 +1,7 @@
 # harmoni-grating-tester
 Tool to automate the transmission efficiency measurements of HARMONI VPHGs.
 
-![Icon](https://github.com/DavidJonGooding/harmoni-grating-tester/vphgicon.ico?raw=true)
+![Icon](https://raw.githubusercontent.com/DavidJonGooding/harmoni-grating-tester/main/vphgicon.ico)
 
 ## Hardware
 
