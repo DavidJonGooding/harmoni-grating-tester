@@ -1,6 +1,8 @@
 # harmoni-grating-tester
 Tool to automate the transmission efficiency measurements of HARMONI VPHGs.
 
+![alt text](https://github.com/DavidJonGooding/harmoni-grating-tester/vphgicon.ico?raw=true)
+
 ## Hardware
 
 1. Bentham monochromator
